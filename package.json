@@ -1,0 +1,9 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "react redux",
+  "main": "index.js",
+  "repository": "https://github.com/laurelherting/react-redux.git",
+  "author": "Laurel Herting <laurel.herting@gmail.com>",
+  "license": "MIT"
+}
